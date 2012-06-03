@@ -10,3 +10,7 @@ Dodai has sub-projects like Dodai-deploy and Dodai-compute.
 Dodai-deploy: https://github.com/nii-cloud/dodai-deploy
 
 Dodai-compute: https://github.com/nii-cloud/dodai-compute
+
+User stories:
+
+National Institute of informatics: National Institute of informatics applied dodai for their research cloud called gunnii.
