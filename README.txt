@@ -14,3 +14,7 @@ Dodai-compute: https://github.com/nii-cloud/dodai-compute
 User stories:
 
 National Institute of informatics: National Institute of informatics applied dodai for their research cloud called gunnii.
+
+## News 
+* [2012/10/22] Slides presented in **Openstack Design Summit 2012 Fall** was uploaded.
+ * http://www.slideshare.net/openstack/dodaigrizzlypdf
